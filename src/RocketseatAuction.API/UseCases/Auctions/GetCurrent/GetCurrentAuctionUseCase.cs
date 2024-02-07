@@ -10,7 +10,7 @@ namespace RocketseatAuction.API.UseCases.Auctions.GetCurrent
         {
             var repository = new RocketseatAuctionDbContext();
 
-            var today = DateTime.Now;
+            var today = new DateTime(2024, 01, 24);
 
             return repository
                 .Auctions
