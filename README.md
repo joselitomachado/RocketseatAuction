@@ -3,10 +3,7 @@
 > NLW Expert CSharp
 
 - Criação uma API de sistema de leilão
-
-## As aulas foram divídas em 3
-- > Com objetivo em desenvolvimento de uma API, e teste unitários com xUnit
-
+  
 ### NLW Expert | Aula 01
 > Vamos preparar o setup e configurar o Visual Studio para dar início ao nosso código. Vamos criar a estrutura base e configurar a comunicação com o banco de dados para os próximos passos do projeto.
 
